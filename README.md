@@ -1,17 +1,17 @@
 ### Currently working on : 
 1. [Wikidata.org's data](https://www.wikidata.org/) Extraction/Transformation/Loading, as a MechatronicBeing resource :
-  - **Lexemes** (= 'dictionary') : almost done, remaining : match the word category (noun, verb...) with the id in the main namespace.  
-  - **Labels** in the main namespace (= 'translation dictionary'): script almost done. Need a full execution.  
-  - **Claims (Properties)** in the main namespace (= 'encyclopedia') : need to check important properties to keep and arrange the output, need a full execution.
+  - Lexemes (= '**dictionary**') : almost done, remaining : match the word category (noun, verb...) with the id in the main namespace.  
+  - Labels in the main namespace (= '**translation dictionary**'): script almost done. Need a full execution.  
+  - Claims (Properties) in the main namespace (= '**encyclopedia**') : need to check important properties to keep and arrange the output, need a full execution.
   - Notes :  
-    - All data are **CC0 licenced** (see [Wikidata:Licensing](https://www.wikidata.org/wiki/Wikidata:Licensing) for more information).  
-    - All languages will be extracted and proposed -except languages ​​with few data-.  
+    - All **data are CC0 licenced** (see [Wikidata:Licensing](https://www.wikidata.org/wiki/Wikidata:Licensing) for more information).  
+    - **All languages will be proposed** -except languages ​​with few data-.  
     - The output will be easy readable and exploitable, with a simple text editor or a 'parser' (files will contains ~1000 lines, each line is one information).  
     - A simple 'low-tech' website will be created, as an exemple and for the public use.  
     - The Wikidata 'Database dump', containing all languages and information, is a MASSIVE 98Go compressed / +500Go uncompressed json file.
     - The Wikidata 'Database dump' is VERY difficult to exploit (unoredred, a lot of IDs and information) and HEAVY time consuming (several weeks, with a LOT of files written).
-    - The public access is expected before the end of the year.
-2. (Personal work) doing some "Raspberry Pi" projects, used as low hardware testing and to working with (RPi-0W, RPi-3B, tiny screens, 
+    - The public access is **expected before the end of the year**.
+2. (Personal) making some "Raspberry Pi" projects, to use for low hardware testing and to work with (RPi-0W, RPi-3B, tiny screens, 
 uses of renewable energies...).
 
 ### Next works :
