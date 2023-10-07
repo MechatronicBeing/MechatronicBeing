@@ -22,4 +22,4 @@ uses of renewable energies...).
   - **Note** : the folder names, as well as "MechatronicBeing", will change, but the resources will remain !
 - Creating or updating the MechatronicBeing.txt file (information of a work)
   - a new system and website will be created, to link works to their creators.
-- Adding MORE public domain resources : games, apps, videos, English lessons... !
+- Adding MORE public domain resources : games, apps, videos, musics, photos, texts, English lessons... !
