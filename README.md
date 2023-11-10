@@ -1,6 +1,6 @@
 ### HELP NEEDED !
-  - For most files/resources, the Git system is NOT useful/necessary and consumes MORE resources (Git 'versioning' use the same space, plus a special server ; while a webserver is enough to share the resources).
-  - **NEED HELP to found a better solution** : a NO-COST UNLIMITED brandwidth/space WORLDWIDE public/open website hosting. 
+  - For most files/resources, the Git system is NOT useful/necessary and consumes MORE resources (Git 'versioning' use the same disk space, and need a special server ; while a webserver is enough to share the resources).
+  - **HELP ME to found a better solution** : a NO-COST UNLIMITED brandwidth/space WORLDWIDE public & open website hosting. 
     - Any idea or suggestion ? Contact me at : <code><!-- &#x20; --></code>&#x4D;&#x65;&#x63;&#x68;&#x61;<span><!-- &#x40; --></span>&#x74;&#x72;&#x6F;&#x6E;&#x69;<span><!-- &#x40; --></span>&#x63;&#x42;&#x65;&#x69;&#x6E;&#x67;&#x40;&#x67;&#x6D;&#x61;<span><!-- &#x40; --></span>&#x69;<!-- &#x40; --></span>&#x6C;&#x2E;&#x63;&#x6F;&#x6D;<code><!-- &#x20; --></code>
   - As a result, activity in MechatronicBeing github will slow down while waiting for a new solution.
   - **Thanks !**
