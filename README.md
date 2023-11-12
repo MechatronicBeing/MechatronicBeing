@@ -1,5 +1,5 @@
 ### HELP NEEDED !
-  - For most resources and files in MechatronicBeing, the Git system is NOT that useful, and consumes MORE resources than necessary (need the same disk space and a git server, while a webserver/fileserver is enough to share these resources).
+  - For most resources and files in MechatronicBeing, the Git system is NOT that useful, and consumes MORE resources than necessary (need the same disk space as the resources, and a special git server ; while a webserver/fileserver is enough to share these resources).
   - **HELP ME found a better hosting solution** : a NO-COST UNLIMITED brandwidth/space WORLDWIDE public & open website hosting. 
     - Any idea or suggestion ? Contact me at : <code><!-- &#x20; --></code>&#x4D;&#x65;&#x63;&#x68;&#x61;<span><!-- &#x40; --></span>&#x74;&#x72;&#x6F;&#x6E;&#x69;<span><!-- &#x40; --></span>&#x63;&#x42;&#x65;&#x69;&#x6E;&#x67;&#x40;&#x67;&#x6D;&#x61;<span><!-- &#x40; --></span>&#x69;<!-- &#x40; --></span>&#x6C;&#x2E;&#x63;&#x6F;&#x6D;<code><!-- &#x20; --></code>
   - As a result :
