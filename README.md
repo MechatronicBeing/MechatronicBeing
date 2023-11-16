@@ -2,8 +2,9 @@
   - For most resources and files in MechatronicBeing, the Git/GitHub system is NOT that useful, consumes MORE resources than necessary :
     - need more disk space to save all changes in files, while most files don't need 'versioning'
     - need a special git server, while a simple webserver/fileserver is enough to share these files
-    - the current Git provider (Github) is NOT the best solution...
-  - **HELP ME found a better hosting solution** : a NO-COST UNLIMITED brandwidth/space WORLDWIDE public & open website hosting. 
+    - the current Git provider (Github.com) is NOT the best solution...
+  - **HELP ME found a better hosting solution** : a NO-COST UNLIMITED brandwidth/space WORLDWIDE public & open website hosting.
+    - 5.7Gb currently used for files -without Git-, +20Gb of files waiting to be added, and much more later...
     - Any idea or suggestion ? Contact me at : <code><!-- &#x20; --></code>&#x4D;&#x65;&#x63;&#x68;&#x61;<span><!-- &#x40; --></span>&#x74;&#x72;&#x6F;&#x6E;&#x69;<span><!-- &#x40; --></span>&#x63;&#x42;&#x65;&#x69;&#x6E;&#x67;&#x40;&#x67;&#x6D;&#x61;<span><!-- &#x40; --></span>&#x69;<!-- &#x40; --></span>&#x6C;&#x2E;&#x63;&#x6F;&#x6D;<code><!-- &#x20; --></code>
   - As a result :
     - The 'MechatronicBeing' project and "https://github.com/MechatronicBeing" are **considered as "obsolete"**, and will be replaced by a better project.
