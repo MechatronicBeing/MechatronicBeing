@@ -8,10 +8,11 @@
   - As a result :
     - The 'MechatronicBeing' project and "https://github.com/MechatronicBeing" are **considered as "obsolete"**, and will be replaced by a better project.
     - MechatronicBeing activity on Github will slow down while switching to a new solution.
-    - most repositories, used as 'raw' storage (like music), **are removed from Github** ; but the resources will remain in the -next- project.
+    - most repositories, used as 'raw' storage (like music, comics), **are removed from Github** ; but the resources will remain in the next project.
   - **Thank you for your understanding.**
 
 ### Currently working on : 
+- **Searching for a new hosting solution.** (see above)
 - [Wikidata.org's data](https://www.wikidata.org/) Extraction/Transformation/Loading, as a MechatronicBeing resource :
   - Lexemes (= '**dictionary**') : script almost done, need full execution. 
   - Labels in the main namespace (= '**translation dictionary**') : script almost done, need a full execution.
@@ -25,8 +26,6 @@
     - For the public use, a simple 'low-tech' website will be created.
     - The Wikidata 'Database dump', containing all languages and information, is a MASSIVE 98Go compressed / +500Go uncompressed JSON file.
     - The Wikidata 'Database dump' is **VERY** difficult to exploit (MASSIVE unoredred IDs and information) and HEAVY time consuming (several weeks, with a LOT of files written).
-    - The public access is **expected before the end of the year**. *Thank you for your understanding.*
-  - Searching for a new hosting solution.
 
 ### Next works :
 - Changing the structure of folders and resources
