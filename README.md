@@ -26,7 +26,7 @@
     - The output will be easy readable and exploitable, with a simple text editor or a 'parser' (files will contains ~1000 lines, each line is one information).  
     - For the public use, a simple 'low-tech' website will be created.
     - The Wikidata 'Database dump', containing all languages and information, is a MASSIVE 98Go compressed / +500Go uncompressed JSON file.
-    - The Wikidata 'Database dump' is **VERY** difficult to exploit (MASSIVE unoredred IDs and information) and HEAVY time consuming (several weeks, with a LOT of files written).
+    - The Wikidata 'Database dump' is **VERY** difficult to exploit (MASSIVE unordered IDs and information) and HEAVY time consuming (several weeks, with a LOT of files written).
 
 ### Next works :
 - Changing the structure of folders and resources
