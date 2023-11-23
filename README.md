@@ -5,7 +5,7 @@ The new account, **CERBERE**, is [**here**](https://codeberg.org/cerbere).
 
 ## the "Cyber-Us" project, by Ace
 **[CERBÈRE] Ace** will continue the main MechatronicBeing project, now called "Cyber-Us" : writing a complete guide for bots and robots with a human artificial intelligence.  
-With the importance and the need of powerful artificial intelligence, the writing of this guide is priority, with regular updates.  
+With the importance and the growing need of powerful artificial intelligence, the writing of this guide is a priority, with regular updates.  
 This project is hosted [here](https://codeberg.org/cerbere/cyber-us).  
 
 ## The old MechatronicBeing resources
