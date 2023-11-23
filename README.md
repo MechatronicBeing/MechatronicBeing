@@ -9,5 +9,5 @@ With the importance and the growing need of powerful artificial intelligence, th
 This project is hosted [here](https://codeberg.org/cerbere/cyber-us).  
 
 ## The old MechatronicBeing resources
-The *"Free 'public domain' resources, usable by Humans and Machines"* will come back, step by step, on codeberg.org.  
+The *"Free 'public domain' resources, usable by Humans and Machines"* will come back, step by step, on [Codeberg.org](https://codeberg.org/cerbere).  
 A new system will be created, to found and link public-domain works with theirs authors, and ease the process.  
