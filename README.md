@@ -1,5 +1,5 @@
 ## Moving to Codeberg.org !
-[*MechatronicBeing*](https://github.com/MechatronicBeing) is migrating to [Codeberg.org](https://codeberg.org/cerbere) !  
+*MechatronicBeing* is migrating to [Codeberg.org](https://codeberg.org/cerbere) !  
 Codeberg.org meets expectations (community driven, non-profit, privacy-friendly, humane platform) for the project, with a friendlier environment for all.  
 The new account, **CERBERE**, is [**here**](https://codeberg.org/cerbere).  
 
